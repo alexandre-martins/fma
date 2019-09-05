@@ -3,3 +3,4 @@
 /*.c
 /build
 /.test.*
+/__pycache__
